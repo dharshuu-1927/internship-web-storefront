@@ -53,3 +53,8 @@ Add `?fail=1` to any URL (for example `http://localhost:5173/products?fail=1`) t
 ## Demo
 
 Screenshots of the buyer flow and seller flow are in the `screenshots/` folder.
+## Final Verification
+
+- Production build verified using `npm run build`.
+- Storefront and demo seller admin tested.
+- Product and cart data use mock data and localStorage.
